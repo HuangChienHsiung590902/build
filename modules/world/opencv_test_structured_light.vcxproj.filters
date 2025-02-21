@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\structured_light\test\test_faps.cpp">
+      <Filter>opencv_structured_light\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\structured_light\test\test_getProjPixel.cpp">
+      <Filter>opencv_structured_light\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\structured_light\test\test_main.cpp">
+      <Filter>opencv_structured_light\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\structured_light\test\test_plane.cpp">
+      <Filter>opencv_structured_light\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\structured_light\test\test_precomp.hpp">
+      <Filter>opencv_structured_light\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_structured_light">
+      <UniqueIdentifier>{4A6876BE-EA5A-31BA-A58A-1DE3ABF64363}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_structured_light\Include">
+      <UniqueIdentifier>{A8BFD4A2-6DC7-3672-8661-66BB3B6DE319}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_structured_light\Src">
+      <UniqueIdentifier>{1BB06C9C-A4EE-3B16-9290-5EF658FEDCA2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

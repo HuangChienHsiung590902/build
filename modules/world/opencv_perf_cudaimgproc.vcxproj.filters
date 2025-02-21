@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_bilateral_filter.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_blend.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_canny.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_color.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_corners.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_gftt.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_histogram.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_hough.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_main.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_match_template.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_mean_shift.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_moments.cpp">
+      <Filter>opencv_cudaimgproc\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\perf\perf_precomp.hpp">
+      <Filter>opencv_cudaimgproc\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudaimgproc">
+      <UniqueIdentifier>{2ADE710C-D745-3C5D-A42F-C3E823EF4356}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaimgproc\Include">
+      <UniqueIdentifier>{DB61EBD4-1F52-366C-8928-87B88DDEBF57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaimgproc\Src">
+      <UniqueIdentifier>{5DBD8E72-CCD7-3163-B7AF-13EE62EC237D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\line_descriptor\test\test_descriptors_regression.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\line_descriptor\test\test_detector_regression.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\line_descriptor\test\test_main.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\line_descriptor\test\test_matcher_regression.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\line_descriptor\test\test_precomp.hpp">
+      <Filter>opencv_line_descriptor\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_line_descriptor">
+      <UniqueIdentifier>{4AAC706F-1D94-3AA0-9BC1-4A14CEE54E62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_line_descriptor\Include">
+      <UniqueIdentifier>{D8CDEB13-C889-3EA4-A0CA-6E03F131F7D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_line_descriptor\Src">
+      <UniqueIdentifier>{D8290DB0-0440-3898-A5FD-4666AF62B237}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

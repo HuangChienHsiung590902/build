@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\quality\test\test_brisque.cpp">
+      <Filter>opencv_quality\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\quality\test\test_gmsd.cpp">
+      <Filter>opencv_quality\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\quality\test\test_main.cpp">
+      <Filter>opencv_quality\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\quality\test\test_mse.cpp">
+      <Filter>opencv_quality\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\quality\test\test_psnr.cpp">
+      <Filter>opencv_quality\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\quality\test\test_ssim.cpp">
+      <Filter>opencv_quality\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\quality\test\test_precomp.hpp">
+      <Filter>opencv_quality\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_quality">
+      <UniqueIdentifier>{E6A5DF2F-C073-30D1-AECC-66C87D96063A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_quality\Include">
+      <UniqueIdentifier>{5F2827A8-9964-3F06-9DFF-EEFB31EBC38E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_quality\Src">
+      <UniqueIdentifier>{C5784CFF-5189-374C-83E5-197117C50136}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

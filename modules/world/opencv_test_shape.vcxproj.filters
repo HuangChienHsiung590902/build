@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\shape\test\test_main.cpp">
+      <Filter>opencv_shape\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\shape\test\test_shape.cpp">
+      <Filter>opencv_shape\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\shape\test\test_precomp.hpp">
+      <Filter>opencv_shape\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_shape">
+      <UniqueIdentifier>{75FE9908-349C-3E79-8400-5E4C866128B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_shape\Include">
+      <UniqueIdentifier>{38EC07F6-21F1-332F-BCAA-CCA2B6FB006F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_shape\Src">
+      <UniqueIdentifier>{3D05E33B-EA06-351D-9F23-D7E328596547}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

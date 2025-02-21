@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\xphoto\test\dct_image_denoising.cpp">
+      <Filter>opencv_xphoto\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\xphoto\test\simple_color_balance.cpp">
+      <Filter>opencv_xphoto\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\xphoto\test\test_denoise_bm3d.cpp">
+      <Filter>opencv_xphoto\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\xphoto\test\test_grayworld.cpp">
+      <Filter>opencv_xphoto\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\xphoto\test\test_hdr.cpp">
+      <Filter>opencv_xphoto\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\xphoto\test\test_inpainting.cpp">
+      <Filter>opencv_xphoto\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\xphoto\test\test_learning_based_color_balance.cpp">
+      <Filter>opencv_xphoto\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\xphoto\test\test_main.cpp">
+      <Filter>opencv_xphoto\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\xphoto\test\test_oil_painting.cpp">
+      <Filter>opencv_xphoto\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\xphoto\test\test_precomp.hpp">
+      <Filter>opencv_xphoto\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_xphoto">
+      <UniqueIdentifier>{1F313B68-CB65-3617-9884-C8CD9DEDF2B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_xphoto\Include">
+      <UniqueIdentifier>{1A2568C0-6CD5-3AE1-A2BD-59CCC4D19F77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_xphoto\Src">
+      <UniqueIdentifier>{504206B7-F119-3BA2-8EA4-384FBA257ED0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

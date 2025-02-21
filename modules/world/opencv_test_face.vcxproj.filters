@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\face\test\test_bif.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\face\test\test_face_align.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\face\test\test_facemark.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\face\test\test_facemark_aam.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\face\test\test_facemark_lbf.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\face\test\test_loadsave.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\face\test\test_mace.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\face\test\test_main.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\face\test\test_precomp.hpp">
+      <Filter>opencv_face\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_face">
+      <UniqueIdentifier>{772E3E01-EB47-307A-BC5A-93EF17627EB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_face\Include">
+      <UniqueIdentifier>{98A60B40-036C-38BC-92A7-937892A3F2CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_face\Src">
+      <UniqueIdentifier>{900CF691-67C6-3C5C-AFC4-4FE649268EAB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

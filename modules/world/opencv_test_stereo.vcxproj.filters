@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\stereo\test\test_block_matching.cpp">
+      <Filter>opencv_stereo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\stereo\test\test_descriptors.cpp">
+      <Filter>opencv_stereo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\stereo\test\test_main.cpp">
+      <Filter>opencv_stereo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\stereo\test\test_qds_matching.cpp">
+      <Filter>opencv_stereo\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\stereo\test\test_precomp.hpp">
+      <Filter>opencv_stereo\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_stereo">
+      <UniqueIdentifier>{60006B4A-398B-3D46-B71C-AC64C62590E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stereo\Include">
+      <UniqueIdentifier>{FB1C037C-A61F-37A7-8ED5-9E43AAA286A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stereo\Src">
+      <UniqueIdentifier>{39397ACC-1A62-33D0-8B9F-6EE488FDE4E8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

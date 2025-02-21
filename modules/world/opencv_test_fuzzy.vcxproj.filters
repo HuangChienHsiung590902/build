@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\fuzzy\test\test_f0.cpp">
+      <Filter>opencv_fuzzy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\fuzzy\test\test_f1.cpp">
+      <Filter>opencv_fuzzy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\fuzzy\test\test_image.cpp">
+      <Filter>opencv_fuzzy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\fuzzy\test\test_main.cpp">
+      <Filter>opencv_fuzzy\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\fuzzy\test\test_precomp.hpp">
+      <Filter>opencv_fuzzy\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_fuzzy">
+      <UniqueIdentifier>{AA1E2604-149F-3D0B-8EC1-397B1AF450ED}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_fuzzy\Include">
+      <UniqueIdentifier>{DA949E3D-2D68-3A83-BD6B-C117D7D12B94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_fuzzy\Src">
+      <UniqueIdentifier>{D46A5603-D6CC-366F-BE83-3BBD0BF36050}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudawarping\perf\perf_main.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudawarping\perf\perf_warping.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\cudawarping\perf\perf_precomp.hpp">
+      <Filter>opencv_cudawarping\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudawarping">
+      <UniqueIdentifier>{3344BA36-2114-376D-9D13-3C9600D0701F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudawarping\Include">
+      <UniqueIdentifier>{ADE98CCE-2C32-318B-A66A-0E5B58838FB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudawarping\Src">
+      <UniqueIdentifier>{F4E292D2-D367-381D-892C-205453F6ECAC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

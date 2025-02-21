@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv-4.11.0\build\modules\world\matmul.avx512_skx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv-4.11.0\build\modules\world\sumpixels.avx512_skx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv-4.11.0\build\modules\world\layers\layers_common.avx512_skx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv-4.11.0\build\modules\world\int8layers\layers_common.avx512_skx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv-4.11.0\build\modules\world\sift.avx512_skx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FB4C74E3-6191-3EFC-AE6E-27E180779BAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

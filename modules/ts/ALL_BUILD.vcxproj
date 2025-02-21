@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ResolveNugetPackages>false</ResolveNugetPackages>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{72DD24EC-C62C-3122-91FF-E0AB7B447C4F}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\cv\opencv-4.11.0\build\3rdparty\ippicv\ippicv_win\icv\include;C:\cv\opencv-4.11.0\build\3rdparty\ippicv\ippicv_win\iw\include;C:\cv\opencv-4.11.0\build;C:\cv\opencv-4.11.0\modules\ts\include;C:\cv\opencv-4.11.0\build\modules\ts;C:\cv\opencv_contrib-4.11.0\modules\cudev\include;C:\cv\opencv-4.11.0\modules\core\include;C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\include;C:\cv\opencv-4.11.0\modules\flann\include;C:\cv\opencv-4.11.0\modules\imgproc\include;C:\cv\opencv_contrib-4.11.0\modules\intensity_transform\include;C:\cv\opencv-4.11.0\modules\ml\include;C:\cv\opencv_contrib-4.11.0\modules\phase_unwrapping\include;C:\cv\opencv_contrib-4.11.0\modules\plot\include;C:\cv\opencv_contrib-4.11.0\modules\quality\include;C:\cv\opencv_contrib-4.11.0\modules\reg\include;C:\cv\opencv_contrib-4.11.0\modules\signal\include;C:\cv\opencv_contrib-4.11.0\modules\surface_matching\include;C:\cv\opencv_contrib-4.11.0\modules\cudafilters\include;C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\include;C:\cv\opencv_contrib-4.11.0\modules\cudawarping\include;C:\cv\opencv-4.11.0\modules\dnn\include;C:\cv\opencv_contrib-4.11.0\modules\dnn_superres\include;C:\cv\opencv-4.11.0\modules\features2d\include;C:\cv\opencv_contrib-4.11.0\modules\fuzzy\include;C:\cv\opencv_contrib-4.11.0\modules\hfs\include;C:\cv\opencv-4.11.0\modules\imgcodecs\include;C:\cv\opencv_contrib-4.11.0\modules\line_descriptor\include;C:\cv\opencv-4.11.0\modules\photo\include;C:\cv\opencv_contrib-4.11.0\modules\saliency\include;C:\cv\opencv_contrib-4.11.0\modules\text\include;C:\cv\opencv-4.11.0\modules\videoio\include;C:\cv\opencv_contrib-4.11.0\modules\xphoto\include;C:\cv\opencv-4.11.0\modules\calib3d\include;C:\cv\opencv_contrib-4.11.0\modules\cudacodec\include;C:\cv\opencv_contrib-4.11.0\modules\cudafeatures2d\include;C:\cv\opencv_contrib-4.11.0\modules\cudastereo\include;C:\cv\opencv_contrib-4.11.0\modules\datasets\include;C:\cv\opencv-4.11.0\modules\highgui\include;C:\cv\opencv_contrib-4.11.0\modules\mcc\include;C:\cv\opencv-4.11.0\modules\objdetect\include;C:\cv\opencv_contrib-4.11.0\modules\rapid\include;C:\cv\opencv_contrib-4.11.0\modules\rgbd\include;C:\cv\opencv_contrib-4.11.0\modules\shape\include;C:\cv\opencv_contrib-4.11.0\modules\structured_light\include;C:\cv\opencv-4.11.0\modules\video\include;C:\cv\opencv_contrib-4.11.0\modules\wechat_qrcode\include;C:\cv\opencv_contrib-4.11.0\modules\xfeatures2d\include;C:\cv\opencv_contrib-4.11.0\modules\ximgproc\include;C:\cv\opencv_contrib-4.11.0\modules\xobjdetect\include;C:\cv\opencv_contrib-4.11.0\modules\aruco\include;C:\cv\opencv_contrib-4.11.0\modules\bgsegm\include;C:\cv\opencv_contrib-4.11.0\modules\bioinspired\include;C:\cv\opencv_contrib-4.11.0\modules\ccalib\include;C:\cv\opencv_contrib-4.11.0\modules\cudabgsegm\include;C:\cv\opencv_contrib-4.11.0\modules\cudalegacy\include;C:\cv\opencv_contrib-4.11.0\modules\cudaobjdetect\include;C:\cv\opencv_contrib-4.11.0\modules\dnn_objdetect\include;C:\cv\opencv_contrib-4.11.0\modules\dpm\include;C:\cv\opencv_contrib-4.11.0\modules\face\include;C:\cv\opencv-4.11.0\modules\gapi\include;C:\cv\opencv_contrib-4.11.0\modules\optflow\include;C:\cv\opencv-4.11.0\modules\stitching\include;C:\cv\opencv_contrib-4.11.0\modules\tracking\include;C:\cv\opencv_contrib-4.11.0\modules\cudaoptflow\include;C:\cv\opencv_contrib-4.11.0\modules\stereo\include;C:\cv\opencv_contrib-4.11.0\modules\superres\include;C:\cv\opencv_contrib-4.11.0\modules\videostab\include;C:\cv\opencv-4.11.0\modules\world\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\cv\opencv-4.11.0\build\3rdparty\ippicv\ippicv_win\icv\include;C:\cv\opencv-4.11.0\build\3rdparty\ippicv\ippicv_win\iw\include;C:\cv\opencv-4.11.0\build;C:\cv\opencv-4.11.0\modules\ts\include;C:\cv\opencv-4.11.0\build\modules\ts;C:\cv\opencv_contrib-4.11.0\modules\cudev\include;C:\cv\opencv-4.11.0\modules\core\include;C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\include;C:\cv\opencv-4.11.0\modules\flann\include;C:\cv\opencv-4.11.0\modules\imgproc\include;C:\cv\opencv_contrib-4.11.0\modules\intensity_transform\include;C:\cv\opencv-4.11.0\modules\ml\include;C:\cv\opencv_contrib-4.11.0\modules\phase_unwrapping\include;C:\cv\opencv_contrib-4.11.0\modules\plot\include;C:\cv\opencv_contrib-4.11.0\modules\quality\include;C:\cv\opencv_contrib-4.11.0\modules\reg\include;C:\cv\opencv_contrib-4.11.0\modules\signal\include;C:\cv\opencv_contrib-4.11.0\modules\surface_matching\include;C:\cv\opencv_contrib-4.11.0\modules\cudafilters\include;C:\cv\opencv_contrib-4.11.0\modules\cudaimgproc\include;C:\cv\opencv_contrib-4.11.0\modules\cudawarping\include;C:\cv\opencv-4.11.0\modules\dnn\include;C:\cv\opencv_contrib-4.11.0\modules\dnn_superres\include;C:\cv\opencv-4.11.0\modules\features2d\include;C:\cv\opencv_contrib-4.11.0\modules\fuzzy\include;C:\cv\opencv_contrib-4.11.0\modules\hfs\include;C:\cv\opencv-4.11.0\modules\imgcodecs\include;C:\cv\opencv_contrib-4.11.0\modules\line_descriptor\include;C:\cv\opencv-4.11.0\modules\photo\include;C:\cv\opencv_contrib-4.11.0\modules\saliency\include;C:\cv\opencv_contrib-4.11.0\modules\text\include;C:\cv\opencv-4.11.0\modules\videoio\include;C:\cv\opencv_contrib-4.11.0\modules\xphoto\include;C:\cv\opencv-4.11.0\modules\calib3d\include;C:\cv\opencv_contrib-4.11.0\modules\cudacodec\include;C:\cv\opencv_contrib-4.11.0\modules\cudafeatures2d\include;C:\cv\opencv_contrib-4.11.0\modules\cudastereo\include;C:\cv\opencv_contrib-4.11.0\modules\datasets\include;C:\cv\opencv-4.11.0\modules\highgui\include;C:\cv\opencv_contrib-4.11.0\modules\mcc\include;C:\cv\opencv-4.11.0\modules\objdetect\include;C:\cv\opencv_contrib-4.11.0\modules\rapid\include;C:\cv\opencv_contrib-4.11.0\modules\rgbd\include;C:\cv\opencv_contrib-4.11.0\modules\shape\include;C:\cv\opencv_contrib-4.11.0\modules\structured_light\include;C:\cv\opencv-4.11.0\modules\video\include;C:\cv\opencv_contrib-4.11.0\modules\wechat_qrcode\include;C:\cv\opencv_contrib-4.11.0\modules\xfeatures2d\include;C:\cv\opencv_contrib-4.11.0\modules\ximgproc\include;C:\cv\opencv_contrib-4.11.0\modules\xobjdetect\include;C:\cv\opencv_contrib-4.11.0\modules\aruco\include;C:\cv\opencv_contrib-4.11.0\modules\bgsegm\include;C:\cv\opencv_contrib-4.11.0\modules\bioinspired\include;C:\cv\opencv_contrib-4.11.0\modules\ccalib\include;C:\cv\opencv_contrib-4.11.0\modules\cudabgsegm\include;C:\cv\opencv_contrib-4.11.0\modules\cudalegacy\include;C:\cv\opencv_contrib-4.11.0\modules\cudaobjdetect\include;C:\cv\opencv_contrib-4.11.0\modules\dnn_objdetect\include;C:\cv\opencv_contrib-4.11.0\modules\dpm\include;C:\cv\opencv_contrib-4.11.0\modules\face\include;C:\cv\opencv-4.11.0\modules\gapi\include;C:\cv\opencv_contrib-4.11.0\modules\optflow\include;C:\cv\opencv-4.11.0\modules\stitching\include;C:\cv\opencv_contrib-4.11.0\modules\tracking\include;C:\cv\opencv_contrib-4.11.0\modules\cudaoptflow\include;C:\cv\opencv_contrib-4.11.0\modules\stereo\include;C:\cv\opencv_contrib-4.11.0\modules\superres\include;C:\cv\opencv_contrib-4.11.0\modules\videostab\include;C:\cv\opencv-4.11.0\modules\world\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="C:\cv\opencv-4.11.0\build\modules\ts\opencv_ts.vcxproj">
+      <Project>{92B1F40B-1C31-38DF-9B22-4BD7899C681D}</Project>
+      <Name>opencv_ts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

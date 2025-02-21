@@ -1,0 +1,131 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeParseImplicitLinkInfo.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindBLAS.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindGit.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindLAPACK.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindOpenMP.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Linker/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Linker/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Linker/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/TestBigEndian.cmake
+C:/Program Files/CMake/share/cmake-4.0/Templates/CPackConfig.cmake.in
+C:/cv/opencv-4.11.0/3rdparty/ffmpeg/ffmpeg.cmake
+C:/cv/opencv-4.11.0/3rdparty/ippicv/ippicv.cmake
+C:/cv/opencv-4.11.0/CMakeLists.txt
+C:/cv/opencv-4.11.0/build/3rdparty/ffmpeg/ffmpeg_version.cmake
+C:/cv/opencv-4.11.0/build/CMakeFiles/4.0.0-rc1/CMakeCCompiler.cmake
+C:/cv/opencv-4.11.0/build/CMakeFiles/4.0.0-rc1/CMakeCXXCompiler.cmake
+C:/cv/opencv-4.11.0/build/CMakeFiles/4.0.0-rc1/CMakeRCCompiler.cmake
+C:/cv/opencv-4.11.0/build/CMakeFiles/4.0.0-rc1/CMakeSystem.cmake
+C:/cv/opencv-4.11.0/cmake/FindCUDNN.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVCRTLinkage.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVCompilerOptimizations.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVCompilerOptions.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDetectCUDA.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDetectCUDAUtils.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDetectCXXCompiler.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDetectDirectML.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDetectDirectX.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDetectFlatbuffers.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDetectOpenCL.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDetectPython.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDetectTrace.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDetectVTK.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVDownload.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVExtraTargets.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindAVIF.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindFrameworks.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindIPP.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindIPPIW.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindLAPACK.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindLibsGUI.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindLibsGrfmt.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindLibsPerf.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindLibsVideo.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindMKL.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindOpenBLAS.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindOpenEXR.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVFindProtobuf.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVGenABI.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVGenAndroidMK.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVGenConfig.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVGenHeaders.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVGenSetupVars.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVInstallLayout.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVMinDepVersions.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVModule.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVPCHSupport.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVPackaging.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVUtils.cmake
+C:/cv/opencv-4.11.0/cmake/OpenCVVersion.cmake
+C:/cv/opencv-4.11.0/cmake/checks/directml.cpp
+C:/cv/opencv-4.11.0/cmake/checks/directx.cpp
+C:/cv/opencv-4.11.0/cmake/checks/opencl.cpp
+C:/cv/opencv-4.11.0/cmake/checks/win32uitest.cpp
+C:/cv/opencv-4.11.0/cmake/platforms/OpenCV-Windows.cmake
+C:/cv/opencv-4.11.0/cmake/templates/OpenCVConfig-version.cmake.in
+C:/cv/opencv-4.11.0/cmake/templates/OpenCVConfig.cmake.in
+C:/cv/opencv-4.11.0/cmake/templates/OpenCVConfig.root-WIN32.cmake.in
+C:/cv/opencv-4.11.0/cmake/templates/cmake_uninstall.cmake.in
+C:/cv/opencv-4.11.0/cmake/templates/custom_hal.hpp.in
+C:/cv/opencv-4.11.0/cmake/templates/cv_cpu_config.h.in
+C:/cv/opencv-4.11.0/cmake/templates/cvconfig.h.in
+C:/cv/opencv-4.11.0/cmake/templates/opencv_modules.hpp.in
+C:/cv/opencv-4.11.0/cmake/templates/setup_vars_win32.cmd.in
+C:/cv/opencv-4.11.0/cmake/vars/EnableModeVars.cmake
+C:/cv/opencv-4.11.0/modules/core/include/opencv2/core/version.hpp
+C:/cv/opencv-4.11.0/modules/dnn/cmake/init.cmake
+C:/cv/opencv-4.11.0/modules/gapi/cmake/DownloadADE.cmake
+C:/cv/opencv-4.11.0/modules/gapi/cmake/init.cmake
+C:/cv/opencv-4.11.0/modules/highgui/cmake/detect_win32ui.cmake
+C:/cv/opencv-4.11.0/modules/highgui/cmake/init.cmake
+C:/cv/opencv-4.11.0/modules/videoio/cmake/detect_dshow.cmake
+C:/cv/opencv-4.11.0/modules/videoio/cmake/detect_ffmpeg.cmake
+C:/cv/opencv-4.11.0/modules/videoio/cmake/detect_gstreamer.cmake
+C:/cv/opencv-4.11.0/modules/videoio/cmake/detect_msmf.cmake
+C:/cv/opencv-4.11.0/modules/videoio/cmake/detect_obsensor.cmake
+C:/cv/opencv-4.11.0/modules/videoio/cmake/init.cmake
+C:/cv/opencv_contrib-4.11.0/modules/julia/cmake/init.cmake
+C:/cv/opencv_contrib-4.11.0/modules/matlab/cmake/init.cmake
+C:/cv/opencv_contrib-4.11.0/modules/text/cmake/FindTesseract.cmake
+C:/cv/opencv_contrib-4.11.0/modules/text/cmake/init.cmake

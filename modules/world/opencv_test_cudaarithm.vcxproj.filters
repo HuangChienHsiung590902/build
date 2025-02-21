@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_arithm.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_buffer_pool.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_core.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_element_operations.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_event.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_gpumat.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_main.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_opengl.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_reductions.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_stream.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\cudaarithm\test\test_precomp.hpp">
+      <Filter>opencv_cudaarithm\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudaarithm">
+      <UniqueIdentifier>{653E6999-64CE-34A2-9E64-C2025A96DFA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaarithm\Include">
+      <UniqueIdentifier>{C330B043-73DF-3C07-83CA-7D55BA288410}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaarithm\Src">
+      <UniqueIdentifier>{637816E4-64B5-3DB2-B6C6-37816D04C0EE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

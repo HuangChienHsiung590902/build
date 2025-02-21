@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\rapid\test\test_main.cpp">
+      <Filter>opencv_rapid\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\rapid\test\test_precomp.hpp">
+      <Filter>opencv_rapid\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_rapid">
+      <UniqueIdentifier>{4AAF060A-6DA2-3A32-9E20-81055F7F7E37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_rapid\Include">
+      <UniqueIdentifier>{E71A1C32-1404-3FCC-BA43-E2A851186CB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_rapid\Src">
+      <UniqueIdentifier>{8BC0F222-4F3A-328E-8A1E-BFB2311B4810}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

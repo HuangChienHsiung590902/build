@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudastereo\test\test_main.cpp">
+      <Filter>opencv_cudastereo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudastereo\test\test_sgm_funcs.cpp">
+      <Filter>opencv_cudastereo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\cv\opencv_contrib-4.11.0\modules\cudastereo\test\test_stereo.cpp">
+      <Filter>opencv_cudastereo\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\cv\opencv_contrib-4.11.0\modules\cudastereo\test\test_precomp.hpp">
+      <Filter>opencv_cudastereo\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudastereo">
+      <UniqueIdentifier>{83B1C87A-A821-35A5-B256-43A4CB6CBC80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudastereo\Include">
+      <UniqueIdentifier>{B3CEDE9B-FE9C-3E2E-B695-D53126CA1644}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudastereo\Src">
+      <UniqueIdentifier>{A10C7A1B-34B7-3CF0-AE7F-514F581ABE53}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
